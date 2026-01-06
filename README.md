@@ -1,0 +1,1 @@
+# 60.Python-Math-Multiple-Check
